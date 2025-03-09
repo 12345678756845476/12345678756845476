@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Mouhamed Amakrane Embedded Systems Engineering and AI Student at Ensa Fés</h1>
-<h3 align="center">🔧 Ingénieur en Systèmes Embarqués & Intelligence Artificielle, passionné par le développement et la validation des systèmes ADAS, FPGA et Machine Learning. Mon expertise couvre l’ensemble du cycle de vie des systèmes embarqués, de la conception à la validation en temps réel. 🚗💡 🎯 Compétences techniques : 
-  ✅ Systèmes embarqués & FPGA : ⚡ VHDL, Verilog, SystemVerilog, UVM, Quartus II, ModelSim 
-  ✅ IA & Vision par ordinateur : 🤖 Python, TensorFlow, Keras, OpenCV, YOLOv8, Scikit-Learn, Pandas, NumPy, Matplotlib 
-  ✅ Modélisation & Simulation : 📊 MATLAB/Simulink, SysML, UML 
-  ✅ Tests & Validation : 🛠️ HIL/SIL/MIL, Vector Tools (CANoe, CANalyzer), SDLC, Cycle en V 
-  ✅ Bus de communication : 🔗 I2C, UART, CAN, SPI, RS232 
-  ✅ Systèmes d’exploitation embarqués : 🖥️ FreeRTOS, Linux embarqué, Bootloader, Cross-compilation 
-  💡 Expérience en développement de systèmes embarqués critiques, avec une approche basée sur la sécurité fonctionnelle (ISO 26262) et les standards de l’industrie automobile (AUTOSAR, ASPICE, MISRA C).</h3>
+<h3 >🔧 Ingénieur en Systèmes Embarqués & Intelligence Artificielle, passionné par le développement et la validation des systèmes ADAS, FPGA et Machine Learning. Mon expertise couvre l'ensemble du cycle de vie des systèmes embarqués, de la conception à la validation en temps réel. 🚗💡 🎯 Compétences techniques : <br>
+✅ Systèmes embarqués & FPGA : ⚡ VHDL, Verilog, SystemVerilog, UVM, Quartus II, ModelSim  <br>
+✅ IA & Vision par ordinateur : 🤖 Python, TensorFlow, Keras, OpenCV, YOLOv8, Scikit-Learn, Pandas, NumPy, Matplotlib  <br>
+✅ Modélisation & Simulation : 📊 MATLAB/Simulink, SysML, UML  <br>
+✅ Tests & Validation : 🛠️ HIL/SIL/MIL, Vector Tools (CANoe, CANalyzer), SDLC, Cycle en V  <br>
+✅ Bus de communication : 🔗 I2C, UART, CAN, SPI, RS232  <br>
+✅ Systèmes d'exploitation embarqués : 🖥️ FreeRTOS, Linux embarqué, Bootloader, Cross-compilation  <br>
+  💡 Expérience en développement de systèmes embarqués critiques, avec une approche basée sur la sécurité fonctionnelle (ISO 26262) et les standards de l'industrie automobile (AUTOSAR, ASPICE, MISRA C).</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=12345678756845476&label=Profile%20views&color=0e75b6&style=flat" alt="12345678756845476" /> </p>
 
